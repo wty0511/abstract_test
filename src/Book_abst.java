@@ -3,7 +3,7 @@ abstract public class Book_abst {
     double price;
     Book_abst(){
 
-    };
+    }
 
     abstract void show();
 
